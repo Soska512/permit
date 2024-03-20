@@ -1,0 +1,4 @@
+eth_abi==5.0.1
+eth_account==0.11.0
+eth_utils==4.0.0
+web3==6.15.1
